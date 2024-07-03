@@ -1,0 +1,27 @@
+{
+  "name": "node-blog-api",
+  "version": "1.0.0",
+  "description": "Blog api project using Node js and Mongodb",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "Node JS",
+    "Express JS",
+    "Blog Api",
+    "js",
+    "Mongoose",
+    "node",
+    "express"
+  ],
+  "author": "ripon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  }
+}
